@@ -11,6 +11,9 @@ This project is a programming exercise designed to:
 - Show detailed information for each country in a custom-styled list item
 - Handle loading errors and edge cases gracefully
 
+## Audio/Screen recording Explanation
+https://drive.google.com/file/d/1T75IL8C2sSZkdMkIi07a8MwuhS29QrAD/view?usp=sharing
+
 ## 🌐 API Endpoint
 
 Data is fetched from the following public URL:
