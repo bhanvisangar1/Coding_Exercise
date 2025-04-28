@@ -36,7 +36,7 @@ https://gist.githubusercontent.com/peymano-wmt/32dcb892b06648910ddd40406e37fdab/
 - **Architecture:** MVVM / MVI / Clean Architecture
 - **Language:** Kotlin
 - **UI:** RecyclerView, ViewBinding
-- **Networking:** Retrofit, Gson
+- **Networking:** Retrofit, OKHTTP, Gson
 - **Error Handling:** Try-catch, response codes, user-friendly messages
 
 ### Prerequisites
